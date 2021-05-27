@@ -1,0 +1,21 @@
+body {
+	font-size: 100;
+	color: red;
+	font-family: arial;
+	background-image: url('background2.jpg');
+	background-size: 100%;
+	text-align: left;
+}
+img {
+	width: 20%;
+	display: block;
+	border:  1px solid black;
+	margin-right: auto;
+	margin-left: auto;
+}
+iframe {
+	border:  5px solid block;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
